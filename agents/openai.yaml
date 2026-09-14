@@ -1,6 +1,6 @@
 interface:
-  display_name: "孕期化妆证据筛查"
-  short_description: "筛查孕期化妆品成分与证据边界"
-  default_prompt: "Use $pregnancy-cosmetics to screen this pregnancy cosmetics ingredient list and distinguish evidence from uncertainty."
+  display_name: "孕期护肤成分安全助手"
+  short_description: "按阶段、暴露路径和证据等级筛查护肤成分"
+  default_prompt: "Use $pregnancy-cosmetics to assess this pregnancy, preconception, or breastfeeding skincare ingredient list, cite the evidence level, and generate a pending-entry record when coverage is insufficient."
 policy:
   allow_implicit_invocation: true

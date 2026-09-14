@@ -2,6 +2,10 @@
 
 本 Skill 汇总了工作区中已经完成的文献蒸馏结果。只把与孕期化妆/个人护理产品直接相关的两篇文献作为核心证据；其他文件用于记录筛查边界，防止误纳入。
 
+## 首要检索入口
+
+- `references/ingredient-database.md`：工作版成分数据库。先按 INCI/英文名/中文名匹配，再回到下列原始来源核对证据与限制。数据库未命中时必须使用 `SKILL.md` 的兜底框架并生成待补录条目。
+
 ## 核心来源
 
 1. `reading-pipeline-output/孕期化妆品成分致畸风险文献/孕期化妆品成分致畸风险_蒸馏知识库.md`
@@ -10,6 +14,18 @@
 2. `reading-pipeline-output/biomolecules-14-00984_20260908_v2/孕期化妆品神经毒性_蒸馏知识库.md`
    - 主题：微塑料/纳米塑料、对羟基苯甲酸酯、苯甲酮、邻苯二甲酸酯、金属，以及胎盘/母乳暴露和 ENS 假说。
    - 结论性质：叙述性综述的潜在神经毒性与暴露线索；没有统一阈值或逐月禁忌。
+3. `references/euroguiderm-acne-pregnancy-2026.md`
+   - 来源：Nast A, et al. *Update of the EuroGuiDerm evidence-based guideline for the treatment of acne—Short version*. 2026. DOI: 10.1111/jdv.70331。
+   - 主题：孕期痤疮外用壬二酸、BPO、必要时的外用抗生素，以及系统性异维A酸在备孕/孕期的强禁忌。
+   - 结论性质：循证与专家共识结合的指南短版；孕期具体推荐主要基于专家意见、叙述性综述和国家药物安全数据库。没有化妆品浓度阈值或哺乳期规则。
+4. `references/mayo-pregnancy-acne-2025.md`
+   - 来源：Mayo Clinic Staff. *Pregnancy acne: What's the best treatment?* 2025-10-10。内容由用户提供，未联网复核。
+   - 主题：孕期痤疮温和护理、水性/noncomedogenic 产品、外用克林霉素/红霉素、BPO、壬二酸、口服异维A酸和外用类维A酸。
+   - 结论性质：权威医学机构的公众健康教育文章，不是系统综述或正式药物妊娠分级；没有浓度、孕周、面积或频率阈值。
+5. `references/jaad-asian-acne-dermocosmetics-2025.md`
+   - 来源：Kim HS, et al. *Addressing the Unmet Needs in Acne Management: A Novel Dermocosmetics Guideline Tailored to Asian Patient Subgroups*. JAAD. 2025;93:AB114. DOI: 10.1016/j.jaad.2025.05.458。
+   - 主题：亚洲痤疮患者亚组、孕期及哺乳期功效护肤品、屏障/微生物组维护、光防护、抗色沉和活性物列表。
+   - 结论性质：会议摘要，非完整指南；未说明各活性物是否适用于孕哺亚组。存在 L'Oréal/La Roche-Posay 商业披露和企业作者关系，应结合独立来源复核。
 
 ## 相关但不作为化妆品证据的来源
 
