@@ -82,13 +82,13 @@
 
 ### 待补录条目
 
-| cn_name | inci_name | aliases | category | common_products | pregnancy_level | pregnancy_note | evidence_type | source | remarks |
+| cn_name | inci_name | aliases | category | common_products | action_label | pregnancy_note | evidence_type | source | remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 水杨酸 | Salicylic Acid | BHA; beta-hydroxy acid | keratolytic / anti-inflammatory / anti-pigmentation | 祛痘精华、洁面、棉片、换肤产品 | 未验证 | 本摘要列为痤疮功效活性物，但未明确适用于孕哺亚组 | 专家指南会议摘要 | 待验证 | 需补充孕期专门来源、浓度、面积、频率和驻留/淋洗 |
-| 烟酰胺 | Niacinamide | nicotinamide; vitamin B3 | sebum control / anti-inflammatory / barrier / anti-pigmentation | 精华、面霜、防晒、底妆 | 未验证 | 本摘要列出控油、抗炎、屏障增强和抗色沉作用；未给孕哺安全结论 | 专家指南会议摘要 | 待验证 | 需补充孕期专门来源和浓度信息 |
-| α-羟基酸 | Alpha-Hydroxy Acids | AHA; alpha hydroxy acid | exfoliant / keratolytic | 精华、面膜、洁面、换肤产品 | 未验证 | 仅为类别列举，未说明具体成分和孕哺适用性 | 专家指南会议摘要 | 待验证 | 应拆分 Glycolic Acid、Lactic Acid、Mandelic Acid 等 |
-| 泛醇 | Panthenol | provitamin B5 | barrier support / soothing | 精华、面霜、修护霜 | 未验证 | 被列为痤疮功效护肤活性物，未提供孕哺结论 | 专家指南会议摘要 | 待验证 | 需独立来源确认功能、浓度和阶段 |
-| 神经酰胺 | Ceramide | ceramides | barrier support | 洁面、乳液、面霜、底妆 | 未验证 | 被列为痤疮功效护肤活性物，未提供具体种类或孕哺结论 | 专家指南会议摘要 | 待验证 | 应按具体 Ceramide INCI 拆分 |
+| 水杨酸 | Salicylic Acid | BHA; beta-hydroxy acid | keratolytic / anti-inflammatory / anti-pigmentation | 祛痘精华、洁面、棉片、换肤产品 | 暂不能判断 | 本摘要列为痤疮功效活性物，但未明确适用于孕哺亚组 | 专家指南会议摘要 | 待验证 | 需补充孕期专门来源、浓度、面积、频率和驻留/淋洗 |
+| 烟酰胺 | Niacinamide | nicotinamide; vitamin B3 | sebum control / anti-inflammatory / barrier / anti-pigmentation | 精华、面霜、防晒、底妆 | 暂不能判断 | 本摘要列出控油、抗炎、屏障增强和抗色沉作用；未给孕哺安全结论 | 专家指南会议摘要 | 待验证 | 需补充孕期专门来源和浓度信息 |
+| α-羟基酸 | Alpha-Hydroxy Acids | AHA; alpha hydroxy acid | exfoliant / keratolytic | 精华、面膜、洁面、换肤产品 | 暂不能判断 | 仅为类别列举，未说明具体成分和孕哺适用性 | 专家指南会议摘要 | 待验证 | 应拆分 Glycolic Acid、Lactic Acid、Mandelic Acid 等 |
+| 泛醇 | Panthenol | provitamin B5 | barrier support / soothing | 精华、面霜、修护霜 | 暂不能判断 | 被列为痤疮功效护肤活性物，未提供孕哺结论 | 专家指南会议摘要 | 待验证 | 需独立来源确认功能、浓度和阶段 |
+| 神经酰胺 | Ceramide | ceramides | barrier support | 洁面、乳液、面霜、底妆 | 暂不能判断 | 被列为痤疮功效护肤活性物，未提供具体种类或孕哺结论 | 专家指南会议摘要 | 待验证 | 应按具体 Ceramide INCI 拆分 |
 
 ## 证据边界与质量门
 

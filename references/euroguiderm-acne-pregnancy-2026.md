@@ -80,10 +80,10 @@
 
 ### 数据库候选条目
 
-| cn_name | inci_name | aliases | category | common_products | pregnancy_level | pregnancy_note | evidence_type | source | remarks |
+| cn_name | inci_name | aliases | category | common_products | action_label | pregnancy_note | evidence_type | source | remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 壬二酸 | Azelaic Acid | azelaic acid | acne treatment / dicarboxylic acid | 祛痘凝胶、乳膏、精华 | 未采用 A/B/C/D/X | EuroGuiDerm 2026 将其列为孕期可以考虑的外用痤疮治疗；无具体浓度和孕周分层 | 循证与专家共识指南短版 | EuroGuiDerm acne guideline update, 2026, Table 4, PDF P.7 | 需区分药品/化妆品、浓度、面积与频率 |
-| 过氧化苯甲酰 | Benzoyl Peroxide | BPO; benzoyl peroxide | acne treatment / oxidizing agent | 祛痘凝胶、乳膏、洁面 | 未采用 A/B/C/D/X | EuroGuiDerm 2026 将其列为孕期可以考虑的外用痤疮治疗；无具体浓度和孕周分层 | 循证与专家共识指南短版 | EuroGuiDerm acne guideline update, 2026, Table 4, PDF P.7 | 高温苯生成属于一般安全背景；不等于孕期致畸阈值 |
+| 壬二酸 | Azelaic Acid | azelaic acid | acne treatment / dicarboxylic acid | 祛痘凝胶、乳膏、精华 | 在医疗指导下考虑 | EuroGuiDerm 2026 将其列为孕期可以考虑的外用痤疮治疗；无具体浓度和孕周分层 | 循证与专家共识指南短版 | EuroGuiDerm acne guideline update, 2026, Table 4, PDF P.7 | 需区分药品/化妆品、浓度、面积与频率 |
+| 过氧化苯甲酰 | Benzoyl Peroxide | BPO; benzoyl peroxide | acne treatment / oxidizing agent | 祛痘凝胶、乳膏、洁面 | 在医疗指导下考虑 | EuroGuiDerm 2026 将其列为孕期可以考虑的外用痤疮治疗；无具体浓度和孕周分层 | 循证与专家共识指南短版 | EuroGuiDerm acne guideline update, 2026, Table 4, PDF P.7 | 高温苯生成属于一般安全背景；不等于孕期致畸阈值 |
 
 ## 证据边界与质量门
 

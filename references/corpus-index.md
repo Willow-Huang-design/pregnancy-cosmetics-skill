@@ -4,7 +4,12 @@
 
 ## 首要检索入口
 
-- `references/ingredient-database.md`：工作版成分数据库。先按 INCI/英文名/中文名匹配，再回到下列原始来源核对证据与限制。数据库未命中时必须使用 `SKILL.md` 的兜底框架并生成待补录条目。
+- `references/product-library-integration.md`：把工作区 `pregnancy-beauty-translator` 的产品身份、美国官方配方、版本、变体和中国大陆适用性限制接入本 Skill；产品库不是孕产期安全数据库。
+- `references/product-screening-examples.md`：具体产品快速结论卡、中英文 INCI 展示、美国配方警示、哺乳期接触和库外产品的典型输出；仅在产品判断或测试时读取。
+- `references/ingredient-registry-v2.md`：规范化成分登记表，优先按 INCI 匹配，并按阶段、暴露路径、监管/临床分类和证据范围读取。
+- `references/ingredient-database.md`：历史证据与待补录资料。V2 未命中时再读取；其中旧 `product_class` 仅作历史兼容，不作为分类来源。数据库未命中时必须使用 `SKILL.md` 的兜底框架并生成待补录条目。
+- `references/authoritative-sources-2026.md`：第一轮权威来源索引，补充中国大陆监管分类、孕期/哺乳期医学来源、防晒和普通彩妆暴露沟通来源。每个条目仍需回到原始页面核对日期、适用地区和适用产品类型。
+- `references/medical-boundaries.md`：监管类别与临床用途分离、五种行动标签阈值、胎儿/母体/乳汁/婴儿/质量终点拆分、哺乳期最小信息、急症升级和产品质量核对；遇到药品、乳头/乳晕暴露或高暴露场景时读取。
 
 ## 核心来源
 

@@ -107,11 +107,11 @@ scope: "孕期痤疮的自我护理、外用治疗选择和避免项"
 
 ### 数据库候选条目
 
-| cn_name | inci_name | aliases | category | common_products | pregnancy_level | pregnancy_note | evidence_type | source | remarks |
+| cn_name | inci_name | aliases | category | common_products | action_label | pregnancy_note | evidence_type | source | remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 克林霉素 | Clindamycin | clindamycin; Cleocin T; Clindagel | topical antibiotic / acne treatment | 处方祛痘凝胶、溶液、乳液 | 未采用 A/B/C/D/X | Mayo Clinic 2025 称孕期外用通常被认为安全；作为治疗性抗生素应由医生管理 | 权威医学机构健康教育文章 | Mayo Clinic, Pregnancy acne: What's the best treatment?, 2025-10-10 | 缺少浓度、频率、孕周分层；需考虑抗菌药物耐药 |
-| 红霉素 | Erythromycin | erythromycin; Erygel; Erythra-Derm | topical antibiotic / acne treatment | 处方外用祛痘凝胶、溶液 | 未采用 A/B/C/D/X | Mayo Clinic 2025 称孕期外用通常被认为安全；作为治疗性抗生素应由医生管理 | 权威医学机构健康教育文章 | Mayo Clinic, Pregnancy acne: What's the best treatment?, 2025-10-10 | 缺少浓度、频率、孕周分层；需考虑抗菌药物耐药 |
-| 外用类维A酸 | Topical Retinoids | topical retinoids | retinoid / acne treatment | 处方及非处方祛痘、抗衰产品 | 未采用 A/B/C/D/X | Mayo Clinic 2025 建议孕期避免，即使经皮吸收量低 | 权威医学机构健康教育文章 | Mayo Clinic, Pregnancy acne: What's the best treatment?, 2025-10-10 | 类别条目；具体衍生物、浓度和制剂需单独匹配，不能据此互换 INCI |
+| 克林霉素 | Clindamycin | clindamycin; Cleocin T; Clindagel | topical antibiotic / acne treatment | 处方祛痘凝胶、溶液、乳液 | 在医疗指导下考虑 | Mayo Clinic 2025 称孕期外用通常被认为安全；作为治疗性抗生素应由医生管理 | 权威医学机构健康教育文章 | Mayo Clinic, Pregnancy acne: What's the best treatment?, 2025-10-10 | 缺少浓度、频率、孕周分层；需考虑抗菌药物耐药 |
+| 红霉素 | Erythromycin | erythromycin; Erygel; Erythra-Derm | topical antibiotic / acne treatment | 处方外用祛痘凝胶、溶液 | 在医疗指导下考虑 | Mayo Clinic 2025 称孕期外用通常被认为安全；作为治疗性抗生素应由医生管理 | 权威医学机构健康教育文章 | Mayo Clinic, Pregnancy acne: What's the best treatment?, 2025-10-10 | 缺少浓度、频率、孕周分层；需考虑抗菌药物耐药 |
+| 外用类维A酸 | Topical Retinoids | topical retinoids | retinoid / acne treatment | 处方及非处方祛痘、抗衰产品 | 建议避免 | Mayo Clinic 2025 建议孕期避免，即使经皮吸收量低 | 权威医学机构健康教育文章 | Mayo Clinic, Pregnancy acne: What's the best treatment?, 2025-10-10 | 类别条目；具体衍生物、浓度和制剂需单独匹配，不能据此互换 INCI |
 
 ## 证据边界与质量门
 
